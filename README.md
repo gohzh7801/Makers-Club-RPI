@@ -19,6 +19,7 @@ Hardware
 - Raspberry Pi
 - Breadboard
 
+![Image of RPI](https://www.raspberrypi.org/blog/logo-competition-we-have-a-winner/)
 
 
 
