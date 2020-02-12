@@ -7,9 +7,10 @@ For Makers Club Juniors. Have Fun!
 Pre-requisites
 
 Software
-- Balena Etcher
-- VNC Viewer
-- Putty
+- [Balena Etcher](https://www.balena.io/etcher/)
+- [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/)
+- [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+- [Advanced IP Scanner](https://www.advanced-ip-scanner.com/)
 
 Hardware
 - LED
