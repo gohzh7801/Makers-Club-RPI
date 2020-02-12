@@ -2,7 +2,7 @@
 
 
 
-For Makers Club Juniors. Have Fun!
+<h6>For Makers Club Juniors. Have Fun!
 
 Pre-requisites
 
