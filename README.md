@@ -19,8 +19,8 @@ Hardware
 - Raspberry Pi
 - Breadboard
 
-![Image of RPI](https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png)
-<img src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" width="48">
+//![Image of RPI](https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png)
+<img src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" width="200">
 
 
 
