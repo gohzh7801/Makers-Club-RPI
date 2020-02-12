@@ -1,4 +1,4 @@
-***Makers-Club-RPI<h1>***
+***Makers-Club-RPI<h6>***
 
 
 
@@ -15,7 +15,7 @@ Software
 Hardware
 - LED
 - Resistors
-- Female to male Jumper wires
+- Female to Male Jumper wires
 - Raspberry Pi
 - Breadboard
 
