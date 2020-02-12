@@ -19,7 +19,7 @@ Hardware
 - Raspberry Pi
 - Breadboard
 
-![Image of RPI](https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png = 150x150)
+![Image of RPI](https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png =150x150)
 
 
 
