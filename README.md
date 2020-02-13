@@ -28,3 +28,7 @@ Hardware
 Only Windows supported. Mac Coming Soon
 
 
+Useful Resources
+- [Think Like A Coder](https://ed.ted.com/lessons/the-prison-break-think-like-a-coder-ep-1) Watch all the episodes!
+
+
