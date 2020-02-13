@@ -30,5 +30,5 @@ Only Windows supported. Mac Coming Soon
 
 Useful Resources
 - [Think Like A Coder](https://ed.ted.com/lessons/the-prison-break-think-like-a-coder-ep-1) Watch all the episodes!
-
-
+- [GPIO Documentation](https://www.raspberrypi.org/documentation/usage/gpio/)
+- [Gpiozero Documentation](https://gpiozero.readthedocs.io/en/stable/index.html)
