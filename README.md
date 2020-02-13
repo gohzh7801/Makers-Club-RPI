@@ -19,8 +19,12 @@ Hardware
 - Raspberry Pi
 - Breadboard
 
+**Before attending lesson please do the following**
+- Download [Raspbian OS](https://www.raspberrypi.org/downloads/raspbian/)- Offline Zip
+All above software- No need to install just download files
+
 <img src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" align="right" width="200">
 
-
+Only Windows supported. Mac Coming Soon
 
 
