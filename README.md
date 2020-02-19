@@ -11,6 +11,7 @@ Software
 - [VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/)
 - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 - [Advanced IP Scanner](https://www.advanced-ip-scanner.com/)
+- [VS Code for Raspbian](https://pimylifeup.com/raspberry-pi-visual-studio-code/)
 
 Hardware
 - LED
