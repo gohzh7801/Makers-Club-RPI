@@ -28,6 +28,14 @@ Hardware
 
 Only Windows supported. Mac Coming Soon
 
+Mac Users(Instructions)
+- You only require VNC Viewer and Putty
+Depending on your Mac specifications go to link above and download
+
+
+Alternative to PuTTY
+- [Online SSH](https://webssh.de/)
+
 
 Useful Resources
 - [Think Like A Coder](https://ed.ted.com/lessons/the-prison-break-think-like-a-coder-ep-1) Watch all the episodes!
