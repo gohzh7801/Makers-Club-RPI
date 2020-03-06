@@ -26,7 +26,7 @@ Hardware
 
 <img src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" align="right" width="200">
 
-Only Windows supported. Limited Mac Suppport
+Only Windows supported. Limited Mac Support
 
 Mac Users(Instructions)
 - You only require VNC Viewer and Putty
