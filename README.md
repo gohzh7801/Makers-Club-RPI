@@ -26,7 +26,7 @@ Hardware
 
 <img src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" align="right" width="200">
 
-Only Windows supported. Mac Coming Soon
+Only Windows supported. Limited Mac Suppport
 
 Mac Users(Instructions)
 - You only require VNC Viewer and Putty
@@ -41,3 +41,5 @@ Useful Resources
 - [Think Like A Coder](https://ed.ted.com/lessons/the-prison-break-think-like-a-coder-ep-1) Watch all the episodes!
 - [GPIO Documentation](https://www.raspberrypi.org/documentation/usage/gpio/)
 - [Gpiozero Documentation](https://gpiozero.readthedocs.io/en/stable/index.html)
+- [Link to slides](https://docs.google.com/presentation/d/1u59qhlNsH2ktCU0Sts2DbvWoZSxH8yJllkBMlwvz2us/edit?usp=sharing)
+
