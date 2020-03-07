@@ -32,6 +32,7 @@ Hardware
 Mac Users(Instructions)
 - You only require VNC Viewer and Angry IP Scanner
 Depending on your Mac specifications go to link above and download
+Detailed Guide is in the repository
 
 
 Alternative to PuTTY
